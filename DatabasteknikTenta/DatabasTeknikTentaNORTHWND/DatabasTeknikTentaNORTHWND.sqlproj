@@ -111,5 +111,7 @@
     <Build Include="dbo\Stored Procedures\CustOrderHist.sql" />
     <Build Include="dbo\Stored Procedures\SalesByCategory.sql" />
     <Build Include="dbo\Stored Procedures\CustomerInsert.sql" />
+    <Build Include="dbo\Views\CountCategories.sql" />
+    <Build Include="dbo\Stored Procedures\AddTerritory.sql" />
   </ItemGroup>
 </Project>
