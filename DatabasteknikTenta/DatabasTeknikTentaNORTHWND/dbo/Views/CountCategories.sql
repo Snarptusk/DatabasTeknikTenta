@@ -1,3 +1,3 @@
 ﻿CREATE VIEW [dbo].[CountCategories]
 
-	SELECT COUNT(CategoryName) FROM Categories
+	Select Count(CategoryName) From Categories
